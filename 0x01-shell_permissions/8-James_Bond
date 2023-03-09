@@ -1,0 +1,4 @@
+#!/bin/bash
+#chmod 777 hello
+#chmod u-rwx,g-rwx hello
+chmod 000 hello
