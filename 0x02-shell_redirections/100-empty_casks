@@ -1,0 +1,2 @@
+#!/bin/sh
+find . -empty -printf "%P\n"

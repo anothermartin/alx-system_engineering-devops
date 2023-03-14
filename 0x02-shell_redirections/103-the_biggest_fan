@@ -1,0 +1,2 @@
+#!/bin/sh
+sort -k2nr < log_file.tsv | head -n 11 | awk '{print $1, $2}'
